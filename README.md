@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Intro to Xaid</title>
+    <title>README</title>
     <style>
         /* Apply Papyrus font globally */
         body {
